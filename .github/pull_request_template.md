@@ -1,9 +1,6 @@
 ## Describe your changes
-[Введіть опис змін тут]
 
 ## Issue ticket number and link
-- Ticket: #
-- Link: 
 
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
